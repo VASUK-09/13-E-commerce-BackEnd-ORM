@@ -45,7 +45,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Mock Up
 
-The following animation demonstrates the application functionality:
+The following animation demonstrates the application functionality:https://drive.google.com/file/d/1eCgII3OljcOafo_fV2FUN5rzd7UiFpvR/view
 
 
 
